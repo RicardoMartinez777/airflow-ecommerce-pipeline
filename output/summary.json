@@ -1,0 +1,9 @@
+{
+  "execution_date": "2026-06-11T19:35:26.970286+00:00",
+  "metrics": {
+    "total_orders": 1000,
+    "total_revenue": 2847363.1300000004,
+    "avg_order_value": 2847.36313
+  },
+  "output_file": "/opt/airflow/output/orders_clean.parquet"
+}
