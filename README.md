@@ -111,7 +111,7 @@ Generated files:
 
 The DAG follows this execution order:
 
-![DAG Graph](images/dag_graph.png)
+![DAG Graph](images/dag_graph.PNG)
 
 ---
 
@@ -175,7 +175,7 @@ Logs allow tracking each pipeline step and identifying possible failures.
 
 Example:
 
-![Task Logs](images/task_logs.png)
+![Task Logs](images/task_logs.PNG)
 
 ---
 
